@@ -1,0 +1,17 @@
+{
+  "name": "galgame",
+  "version": "1.0.20",
+  "description": "galgamesite",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gal",
+    "game",
+    "site",
+    "img"
+  ],
+  "author": "adingapkgg",
+  "license": "MIT"
+}

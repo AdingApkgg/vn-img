@@ -1,0 +1,3 @@
+# GalGame
+
+GalGame资源
