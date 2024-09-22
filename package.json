@@ -1,6 +1,6 @@
 {
   "name": "galgame",
-  "version": "1.0.29",
+  "version": "1.0.30",
   "description": "galgamesite",
   "main": "index.js",
   "scripts": {
